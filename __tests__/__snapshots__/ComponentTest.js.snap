@@ -20,7 +20,8 @@ exports[`renders correctly 1`] = `
         }
       }
     >
-      Redux Examples
+      Redux Examples 
+      9
     </Text>
     <View
       accessibilityComponentType={undefined}
